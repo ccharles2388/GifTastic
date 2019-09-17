@@ -1,0 +1,12 @@
+
+#buttons {
+    display: flex;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+}
+
+
