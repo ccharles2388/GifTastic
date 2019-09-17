@@ -1,12 +1,15 @@
 
-#buttons {
+
+
+#buttons{
     display: flex;
 }
 
-body{
+#gifs{
     display: flex;
     flex-direction: column;
     width: 65%;
+    clear: both;
 }
 
 
